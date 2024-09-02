@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Achala Rao
+👋 Hi, I’m Achala Rao
 
 About me:
 🎓 Masters Graduate from Syracuse University with a focus on Business Analytics.

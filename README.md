@@ -6,7 +6,7 @@ About me:
 <!--- --->
 💼 Former Data Analyst at Women Leaders in Data and AI.
 <!--- --->
-🌍 Analyzed the hidden frequency of earthquakes in a recent data project (turns out they happen way more often than you'd think).
+🌍 Analyzed the hidden frequency of earthquakes in a recent data project (turns out they happen way more often than you'd think)
 <!--- --->
 🌟 Always on the lookout for stories hidden within data.
 <!--- --->

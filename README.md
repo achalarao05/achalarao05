@@ -1,6 +1,6 @@
 👋 Hi, I’m Achala Rao
 
-About me:
+### About me:
 <!--- --->
 🎓 Masters Graduate from Syracuse University with a focus on Business Analytics.
 <!--- --->
@@ -11,7 +11,29 @@ About me:
 🌟 Always on the lookout for stories hidden within data.
 <!--- --->
 🎨 When I’m not analyzing, you’ll find me painting or lost in a good book.
-<!---
-achalarao05/achalarao05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- --->
+<!--- --->
+### Tech Stack:
+
+**Data Analysis and Modelling**:  
+Python, PostgreSQL, MS SQL Server, RStudio, Advanced MS Excel, VBA & Macros, AWS, Snowflake, Teradata, Jupyter Notebook, SAS, SAP, Oracle ERP
+
+**Data Visualization and Business Intelligence**:  
+Tableau, Power BI, Salesforce, Google Analytics, CRM Analytics, IBM Cognos, Lucid Charts
+
+**Operations and Process Improvement**:  
+Lean Six Sigma, MS Project, Minitab, Jira, IBM Blueworks Live, Asana
+
+**Tools and Platforms**:  
+MS Project, IBM Blueworks Live, Asana, Lucid Charts
+
+**Certifications**:  
+Tableau Desktop Specialist, Lean Six Sigma Green Belt, Learning Snowflake
+
+
+
+### Links:
+<!--- --->
+**LinkedIn:** https://www.linkedin.com/in/achala-rao/
+
+**Tableau Public:** https://public.tableau.com/app/profile/achala.rao/vizzes

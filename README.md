@@ -16,7 +16,7 @@
 ### Tech Stack:
 
 **Data Analysis and Modelling**:  
-Python, PostgreSQL, MS SQL Server, RStudio, Advanced MS Excel, VBA & Macros, AWS, Snowflake, Teradata, Jupyter Notebook, SAS, SAP, Oracle ERP
+Python, PostgreSQL, MS SQL Server, RStudio, Advanced MS Excel, VBA & Macros, AWS, Snowflake, Jupyter Notebook, SAS, SAP, Oracle ERP
 
 **Data Visualization and Business Intelligence**:  
 Tableau, Power BI, Salesforce, Google Analytics, CRM Analytics, IBM Cognos, Lucid Charts
@@ -25,7 +25,7 @@ Tableau, Power BI, Salesforce, Google Analytics, CRM Analytics, IBM Cognos, Luci
 Lean Six Sigma, MS Project, Minitab, Jira, IBM Blueworks Live, Asana
 
 **Tools and Platforms**:  
-MS Project, IBM Blueworks Live, Asana, Lucid Charts
+MS Project, IBM Blueworks Live, Asana
 
 **Certifications**:  
 Tableau Desktop Specialist, Lean Six Sigma Green Belt, Learning Snowflake
